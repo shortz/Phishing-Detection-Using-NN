@@ -18,12 +18,12 @@ I used the source with the raw features.
 
 The purpose of this project is to compare several known classification algorithms. I will compare the following algorithms:
 
-Logistic Regression
-Decision Tree
-KNN
-SVM
-Naive Bayes
-Convolutional Neural Networks
+- Logistic Regression
+- Decision Tree
+- KNN
+- SVM (linear and rbf kernel)
+- Naive Bayes
+- Convolutional Neural Networks
 
 ### Methods
 
