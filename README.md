@@ -30,3 +30,8 @@ The purpose of this project is to compare several known classification algorithm
 Inorder to evaluate the algorithms performance, I will use two methods: simple accuracy and ROC curve.
 
 Several of the features seems to have no real effect on the results, so I will first run the algorithms on the raw data, and then I will try to adujst the features list in order to improve the algorithms run time and accuracy.
+
+### Works to view
+
+- A very good guide for URL phishing detection - https://medium.com/intel-software-innovators/detecting-phishing-websites-using-machine-learning-de723bf2f946
+- A paper on how to optimize the neural network - https://dl-acm-org.ezprimo1.idc.ac.il/doi/pdf/10.1145/3227609.3227655
